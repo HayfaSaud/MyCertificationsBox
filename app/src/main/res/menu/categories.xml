@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Academic degree certificates"
+        android:id="@+id/Degree"/>
+    <item
+        android:title="Courses certificates"
+        android:id="@+id/courses"/>
+    <item
+        android:title="Volunteering certificates"
+        android:id="@+id/Volunteering"/>
+
+</menu>

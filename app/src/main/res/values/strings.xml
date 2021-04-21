@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cs410Project</string>
+    <string-array name="category">
+        <item> Academic degree certificate </item>
+        <item> Volunteering certificate </item>
+        <item> Courses certificate </item>
+    </string-array>
+</resources>
